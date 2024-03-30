@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/humayunhabib786" target="blank"><img src="https://img.shields.io/twitter/follow/humayunhabib786?logo=twitter&style=for-the-badge" alt="humayunhabib786" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/298384/screenshots/3897360/media/7d50c2bff6e17d4f9644373c9af44234.gif">
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f904f0edc89546c89757b2b/1607056915169-SMSH9OTHT8XPFJK3RT7J/image-asset.gif?format=2500w">
 
 - 🌱 Advanced React frameworks and Web3 technologies **React, JavaScript, NodeJS**
 
